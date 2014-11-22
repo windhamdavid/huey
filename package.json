@@ -20,7 +20,8 @@
     "hubot-slack": "^2.2.0",
     "hubot-youtube": "^0.1.2",
 	"hubot-thesimpsons": ">= 0.0.0",
-	"hubot-slack": "2.2.0"
+	"hubot-slack": "2.2.0",
+	"hubot-last-fm": "1.0.0"
   },
   "engines": {
     "node": "0.10.x"
