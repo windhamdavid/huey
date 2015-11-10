@@ -11,6 +11,5 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-thesimpsons", 
-  "hubot-last-fm",
-  "hubot-browserstack",
+  "hubot-last-fm"
 ]
