@@ -2,8 +2,8 @@
   "name": "huey",
   "version": "0.0.0",
   "private": true,
-  "author": "y",
-  "description": "something else",
+  "author": "windhamdavid",
+  "description": "huey hubot",
   "dependencies": {
     "hubot": "^2.9.3",
     "hubot-diagnostics": "0.0.1",
