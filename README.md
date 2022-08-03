@@ -2,7 +2,7 @@
 
 v0.0.2
 
-22/07/03  - RedistoGo was deprecated from Heroku, so I switched it out with RedisCloud while updating the Heroku stack. Redis is used for persistance via the [Hubot-Redis-Brain](https://github.com/hubotio/hubot-redis-brain) package.
+22/07/03  - RedistoGo was deprecated from Heroku, so I switched it out with RedisCloud. Redis is used for persistance via the [Hubot-Redis-Brain](https://github.com/hubotio/hubot-redis-brain) package. Also updated the [Heroku Stack](https://devcenter.heroku.com/articles/upgrading-to-the-latest-stack) from 18 to 22. 
 
 ---
 # huey
